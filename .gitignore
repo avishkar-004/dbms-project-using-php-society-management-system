@@ -1,0 +1,30 @@
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# PHP dependencies
+/vendor/
+composer.lock
+
+# Environment and config
+.env
+*.log
+
+# OS files
+Desktop.ini
+
+# Uploads (user-generated)
+Images/IMG-*
+!Images/shlogo.jpg
+!Images/adminlogin.jpg
+!Images/background.png
+!Images/building1.jpg
+!Images/card1.png
+!Images/card2.png
+!Images/download.png
+!Images/notice.jpg
