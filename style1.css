@@ -66,3 +66,59 @@ nav ul li a{
      color: rgb(51, 123, 133);
      cursor: pointer;
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.col-1{
+    flex-basis: 40%;
+    min-width:200px;
+    margin-bottom: 40px;
+}
+.col-1 img{
+    width: 115%;
+    height: 110%;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.active::after{
+    content: "";
+    height: 3px;
+    width: 100%;
+    background:rgb(5, 85, 85);
+    position: absolute;
+    left: 0px;
+    bottom: -5px;
+}
+.btn{
+    margin-left: 1083px;
+    margin-top: 0px;
+    color:rgb(5, 85, 85) ;
+    font-weight: 500px;
+    border: 2px solid rgb(5, 56, 77);
+    padding: 6px 25px;
+    border-radius: 60px;
+    text-decoration: none;
+    position:absolute;
+    transition: 0.5s
+}
+.btn:hover{
+    background: #fff;
+}
+.form-container{
+    background: #fff;
+    width: 300px;
+    height: 450px;
+    position: relative;
+    text-align: center;
+    padding: 10px 0;
+    margin: auto;
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+.col-2{
+    padding-right: 150px;
+    padding-top: 32px;
+}
