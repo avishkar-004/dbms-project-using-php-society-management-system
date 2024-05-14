@@ -184,3 +184,28 @@ form a{
 .btn-losi:hover{
     background: rgb(109, 159, 201);
 }
+#rules {
+    height: 80vh;
+    width: 100%;
+    background-size:cover;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    position:relative;
+}
+#rules h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 523px;
+    color: rgb(5, 85, 85);
+    background-color: aliceblue;
+}
+#rules li{
+    list-style:number;
+    list-style-position:outside;
+    text-indent: -1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-left: 28px;
+    font-size: 18px;
+}
