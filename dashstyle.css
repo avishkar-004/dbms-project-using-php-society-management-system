@@ -42,3 +42,40 @@ header{
 .logout_btn:hover{
     background: #0B87A6;
 }
+
+.sidebar{
+    position: fixed;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #1b1b1b;
+    transition: all .5s ease;
+}
+
+.sidebar ul li{
+    height: 50px;
+    width: 100%;
+    list-style: none;
+}
+
+.sidebar ul li a{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 20px;
+    position: relative;
+    height: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.sidebar ul li a:hover{
+    color: #19B3D3;
+    background: #22242A;
+}
+
+.sidebar ul li a span{
+    padding-left: 5px;
+}
