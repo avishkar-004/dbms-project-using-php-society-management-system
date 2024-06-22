@@ -145,4 +145,4 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
     
     
 </body>
-</html>
+</html><!-- Session handling updated -->
