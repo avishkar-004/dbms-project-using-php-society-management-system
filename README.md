@@ -15,3 +15,9 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 - **Database:** MySQL (MariaDB) via phpMyAdmin
 - **Server:** XAMPP (Apache + MySQL)
 - **Icons:** Font Awesome
+
+- **Complaint System** - Residents can lodge complaints; admin can view and resolve them
+- **Maintenance Payments** - Owners can make payments through multiple modes
+- **Notice Board** - Admin can post notices; residents can view them
+- **Photo Gallery** - Upload and view society event photos
+- **Role-Based Access** - Different dashboards for owners, tenants, and admin
