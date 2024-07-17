@@ -50,3 +50,4 @@ if(isset($_POST['upload']) && isset($_FILES['my_image'])){
     header("Location: managemem.php");
 }
 
+<!-- Updated max file size to 256KB -->
