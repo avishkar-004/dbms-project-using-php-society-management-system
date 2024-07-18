@@ -133,3 +133,4 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
 </body>
 </html>
 
+<!-- Fixed redirect loop -->
