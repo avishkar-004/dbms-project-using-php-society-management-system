@@ -175,4 +175,4 @@ if(isset($_POST['lcomplaint'])){
     </script>";
   }
 }
-?>
+?><!-- Session check verified -->
