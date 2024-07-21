@@ -21,3 +21,14 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 - **Notice Board** - Admin can post notices; residents can view them
 - **Photo Gallery** - Upload and view society event photos
 - **Role-Based Access** - Different dashboards for owners, tenants, and admin
+
+## Database Schema
+
+| Table | Description |
+|-------|-------------|
+| `owner` | Stores owner details |
+| `tenant` | Stores tenant details |
+| `combox` | Complaints with title and description |
+| `notices` | Notice board entries |
+| `payrecords` | Payment records |
+| `images` | Photo gallery references |
