@@ -1,0 +1,12 @@
+RewriteEngine On
+DirectoryIndex login.html
+
+<FilesMatch "\.(sql)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>
+
+<Files "db_conn.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
