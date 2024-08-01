@@ -32,3 +32,20 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 | `notices` | Notice board entries |
 | `payrecords` | Payment records |
 | `images` | Photo gallery references |
+
+## Setup Instructions
+
+### Prerequisites
+- [XAMPP](https://www.apachefriends.org/) installed
+
+### Installation
+1. Clone the repo
+2. Copy to XAMPP `htdocs`
+3. Start Apache and MySQL
+4. Create database `dbms` in phpMyAdmin
+5. Import SQL files from `sql/` directory
+6. Open `http://localhost/login.html`
+
+### Default Credentials
+**Admin:** Username: `Admin`, Code: `100`
+**User:** Register through the form
