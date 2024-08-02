@@ -52,3 +52,4 @@ else{
     </script>"; mysqli_error($conn);
 }
 ?>
+<!-- TODO: implement prepared statements -->
