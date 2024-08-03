@@ -64,3 +64,4 @@ else if($usertype == "Tenant"){
     }
 }
 ?>
+<!-- Database name case fixed -->
