@@ -49,3 +49,23 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 ### Default Credentials
 **Admin:** Username: `Admin`, Code: `100`
 **User:** Register through the form
+
+## Project Structure
+```
+├── sql/             # Database schema files
+├── Images/          # Static images and uploads
+├── db_conn.php      # Database connection
+├── login.html       # Landing page
+├── login.php        # Auth logic
+├── register.php     # Registration handler
+├── Adminlogin.php   # Admin login
+├── Welcome.php      # User dashboard
+├── Welcome1.php     # Admin dashboard
+├── managemem.php    # Member management
+├── complaint.php    # Complaint form
+├── noticebrd.php    # Notice board
+├── payment.php      # Payment form
+├── photo.php        # Photo gallery
+├── dashstyle.css    # Dashboard CSS
+└── style1.css       # Landing page CSS
+```
