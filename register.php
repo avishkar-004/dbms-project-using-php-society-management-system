@@ -65,3 +65,4 @@ else if($usertype == "Tenant"){
 }
 ?>
 <!-- Database name case fixed -->
+<!-- Mobile validation: 10 digits -->
