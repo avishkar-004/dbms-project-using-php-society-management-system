@@ -176,3 +176,4 @@ if(isset($_POST['lcomplaint'])){
   }
 }
 ?><!-- Session check verified -->
+<!-- Textarea resize fix -->
