@@ -142,4 +142,4 @@ if(isset($_POST['send_notice'])){
     </script>";
   }
 }
-?>
+?><!-- Date format: Y-m-d -->
