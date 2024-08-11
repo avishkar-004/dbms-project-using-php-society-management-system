@@ -133,4 +133,4 @@ session_start();
         
     </div>
 </body>
-</html>
+</html><!-- Status display updated -->
