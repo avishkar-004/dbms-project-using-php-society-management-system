@@ -141,4 +141,4 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
     
     
 </body>
-</html>
+</html><!-- Responsive viewport confirmed -->
