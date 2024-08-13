@@ -40,3 +40,4 @@ CREATE TABLE IF NOT EXISTS `combox` (
   `Title` varchar(100) NOT NULL,
   `complaint` varchar(500) NOT NULL
 );
+-- Updated combined script
