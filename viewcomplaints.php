@@ -157,4 +157,4 @@ session_start();
         
     </div>
 </body>
-</html>
+</html><!-- Admin session validated -->
