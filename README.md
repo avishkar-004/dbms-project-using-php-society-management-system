@@ -69,3 +69,6 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 ├── dashstyle.css    # Dashboard CSS
 └── style1.css       # Landing page CSS
 ```
+
+## Screenshots
+See `dbms_report.pdf` for detailed screenshots of all features.
