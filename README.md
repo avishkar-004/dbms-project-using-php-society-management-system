@@ -72,3 +72,6 @@ A web-based Society Management System built with PHP and MySQL as a DBMS course 
 
 ## Screenshots
 See `dbms_report.pdf` for detailed screenshots of all features.
+
+## License
+This project was developed as an academic project for the DBMS course.
