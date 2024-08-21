@@ -3,3 +3,4 @@
         <script>
             swal("Good job!", "You clicked the button!", "success");
         </script> -->
+<!-- Cleaned up unused scripts -->
