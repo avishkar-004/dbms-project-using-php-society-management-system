@@ -17,3 +17,6 @@ composer.lock
 
 # OS files
 Desktop.ini
+
+# Temp files
+*.tmp
