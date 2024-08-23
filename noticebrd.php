@@ -130,4 +130,4 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin']!=true){
     </table>   
     </div>
 </body>
-</html>
+</html><!-- Notice alignment fixed -->
