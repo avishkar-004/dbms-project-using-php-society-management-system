@@ -133,3 +133,4 @@ session_start();
 </body>
 </html>
 
+<!-- Session fix for photo upload -->
